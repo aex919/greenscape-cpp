@@ -1,8 +1,4 @@
 # greenscape-cpp
 C++ landscaping invoice program written while a student at Santa Monica College
 
-#test
-
-
-
-#better changes
+#testing on i/o
